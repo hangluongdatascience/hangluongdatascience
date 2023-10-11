@@ -7,7 +7,7 @@
 💞️ I’m looking to collaborate on applying machine learning to marketing or the healthcare industry
 
 📫 How to reach me :
-  LinkedIn: https://www.linkedin.com/in/hang-luong-data-driven/
-  Github: @hangluongdatascience
-  TikTok: @embedata
+LinkedIn: https://www.linkedin.com/in/hang-luong-data-driven/  
+Github: @hangluongdatascience
+TikTok: @embedata
   
